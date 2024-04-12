@@ -1,0 +1,36 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\PS3\\PS3\\NET\\My Source C#\\Mw3 RTM Tool - Private - Mx444\\Mw3 RTE Tool by Mx444\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A13914AE-6174-4408-919E-D0048E28EDF4}|Mw3 RTE Tool by Mx444.csproj|d:\\ps3\\ps3\\net\\my source c#\\mw3 rtm tool - private - mx444\\mw3 rte tool by mx444\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A13914AE-6174-4408-919E-D0048E28EDF4}|Mw3 RTE Tool by Mx444.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Progettazione]",
+              "DocumentMoniker": "D:\\PS3\\PS3\\NET\\My Source C#\\Mw3 RTM Tool - Private - Mx444\\Mw3 RTE Tool by Mx444\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "D:\\PS3\\PS3\\NET\\My Source C#\\Mw3 RTM Tool - Private - Mx444\\Mw3 RTE Tool by Mx444\\Form1.cs [Progettazione]",
+              "RelativeToolTip": "Form1.cs [Progettazione]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-12T09:38:42.147Z",
+              "EditorCaption": " [Progettazione]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
