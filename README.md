@@ -4,7 +4,7 @@ Questo strumento è un'applicazione sviluppata in C# per la modifica di Modern W
 
 ## ⚙️ Funzionalità Principali
 
-- **Modifiche dei File di Gioco**: Questo strumento consente agli utenti di aprire, modificare e salvare i file di gioco di Modern Warfare 2, consentendo la personalizzazione delle mappe, delle armi, dei personaggi e altro ancora.
+- **Modifiche dei File di Gioco**: Questo strumento consente agli utenti di aprire, modificare e salvare i file di gioco di Modern Warfare 3, consentendo la personalizzazione delle mappe, delle armi, dei personaggi e altro ancora.
 - **Gestione dei Mod**: Gli utenti possono gestire facilmente i propri mod, organizzandoli in progetti e attivandoli o disattivandoli con facilità.
 
 ## 🧑‍💻 Requisiti di Sistema
