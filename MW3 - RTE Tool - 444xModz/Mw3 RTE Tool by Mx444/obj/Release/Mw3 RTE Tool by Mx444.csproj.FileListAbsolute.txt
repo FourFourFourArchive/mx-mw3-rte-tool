@@ -1,7 +1,0 @@
-C:\Users\Davide\Desktop\NET\My Source C#\Mw3 RTM Tool - Private - Mx444\Mw3 RTE Tool by Mx444\bin\Release\Private Mw3 RTE Tool By Mx444.exe.config
-C:\Users\Davide\Desktop\NET\My Source C#\Mw3 RTM Tool - Private - Mx444\Mw3 RTE Tool by Mx444\obj\Release\Mw3 RTE Tool by Mx444.csprojResolveAssemblyReference.cache
-C:\Users\Davide\Desktop\NET\My Source C#\Mw3 RTM Tool - Private - Mx444\Mw3 RTE Tool by Mx444\obj\Release\Call_Of_Duty_Multi_Tool_1._0._0.Form1.resources
-C:\Users\Davide\Desktop\NET\My Source C#\Mw3 RTM Tool - Private - Mx444\Mw3 RTE Tool by Mx444\obj\Release\Call_Of_Duty_Multi_Tool_1._0._0.Painter.resources
-C:\Users\Davide\Desktop\NET\My Source C#\Mw3 RTM Tool - Private - Mx444\Mw3 RTE Tool by Mx444\obj\Release\Private_Mw3_RTE_Tool_By_Mx444.Properties.Resources.resources
-C:\Users\Davide\Desktop\NET\My Source C#\Mw3 RTM Tool - Private - Mx444\Mw3 RTE Tool by Mx444\obj\Release\Call_Of_Duty_Multi_Tool_1._0._0.TurretSpawn.resources
-C:\Users\Davide\Desktop\NET\My Source C#\Mw3 RTM Tool - Private - Mx444\Mw3 RTE Tool by Mx444\obj\Release\Mw3 RTE Tool by Mx444.csproj.GenerateResource.Cache
